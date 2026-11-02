@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="banner.svg" alt="Teja Pavan - Mechatronics, Robotics, Electronics" width="100%">
+ alt="Teja Pavan - Mechatronics, Robotics, Electronics" width="100%">
 </p>
 
 Final-year **Mechatronics** student at **VIT Chennai**, focused on **electrical systems and robotics** — from power electronics and PCB design to ROS 2 simulation and control.

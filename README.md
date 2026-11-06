@@ -1,6 +1,6 @@
 # Hi, I'm Teja Pavan 👋
 
-Final-year **Mechatronics** student at **VIT Chennai**, focused on **electrical systems and robotics** — from power electronics and PCB design to ROS 2 simulation and control.
+Final-year **Mechatronics** student at **VIT Chennai**, focused on **electrical systems and robotics** from power electronics and PCB design to ROS 2 simulation and control.
 
 I mostly build rovers, robot arms and the electronics that run them. Lately that's PCBs, motor control, ROS 2 simulation, and a bit of computer vision and audio ML on the side.
 

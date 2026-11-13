@@ -23,7 +23,7 @@ I mostly build rovers, robot arms and the electronics that run them. Lately that
 | [**BLDC Motor Controller**](https://github.com/Teja-Pavan30/Analog-Based-BLDC-Motor-Controller) | BLDC motor speed and direction controller, simulated and prototyped |
 | [**Headphone Design**](https://github.com/Teja-Pavan30/Headphone_design) | Mechanical CAD and PCB layout for a headphone with an integrated volume-control mechanism |
 | **Rover electrical system** | 12 V LiPo power system with fail-safe cut-off and a custom 2-layer sensor PCB *(link coming soon)* |
-| **Tile inspection and sorting** (https://github.com/Teja-Pavan30/tile_sorting)| Vision + audio grading of tiles with automated pick-and-place *(link coming soon)* |
+| [Tile Inspection & Sorting](https://github.com/Teja-Pavan30/tile_sorting) | Automated tile inspection using computer vision and audio-based defect detection, with pick-and-place sorting. |
 
 ## 📫 Get in touch
 
